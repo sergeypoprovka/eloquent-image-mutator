@@ -1,5 +1,5 @@
 {
-    "name": "sahusoftcom/eloquent-image-mutator",
+    "name": "sergeypoprovka/eloquent-image-mutator",
     "description": "One solution for image uploads.",
     "keywords": ["photo", "image", "upload", "laravel"],
     "homepage": "https://github.com/sahusoftcom/eloquent-image-mutator",
