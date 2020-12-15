@@ -5,7 +5,7 @@
     "homepage": "https://github.com/sahusoftcom/eloquent-image-mutator",
     "require": {
         "php": ">=5.5.9",
-        "laravel/framework": "^5.1",
+        "laravel/framework": "8.*",
         "imagine/imagine": ">=0.6.3"
     },
     "license": "MIT",
